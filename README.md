@@ -1,7 +1,9 @@
 # create Blog Post
 
 ## TODO
-- [ ] Include Name
-- [ ] Include my "Rant"
-- [ ] Defend Rant
-- [ ] Add Photos of Rant
+- [x] Include Name
+- [x] Include my "Rant"
+- [x] Add Photos of Rant
+- [ ] Add buttons
+- [ ] Switch to second screen
+- [x] Defend Rant
